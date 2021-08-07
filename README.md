@@ -1,5 +1,7 @@
 ## NO LONGER MAINTAINED
 
+扫描---------------------------------------
+
 This project won't be receiving further updates or maintenance.
 
 Please consider trying one of the forks of this project such as 
